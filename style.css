@@ -1,0 +1,36 @@
+.main{
+    height: 100vh;
+}
+
+.index-img{
+    width: 100%;
+    object-fit: cover;
+    object-position: right;
+}
+
+.fs10{
+    font-size: 10px;
+}
+.fs12{
+    font-size: 12px;
+}
+
+.fs16{
+    font-size: 16px;
+}
+
+a{
+    cursor: pointer;
+}
+
+.rounded-12{
+    border-radius: 12px;
+}
+.login-box{
+    height: 120px;
+}
+
+.main.bg-index{
+    background: url(../img/slider-image1.jpg);
+    background-size: 7000px;
+}
